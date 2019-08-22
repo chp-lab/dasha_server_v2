@@ -1,0 +1,31 @@
+{
+  "name": "dasha_server_v2",
+  "version": "1.0.0",
+  "description": "dasha http/https server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chp-lab/dasha_server_v2.git"
+  },
+  "keywords": [
+    "dasha",
+    "http",
+    "https",
+    "mysql",
+    "influxdb",
+    "mqtt",
+    "telegraf"
+  ],
+  "author": "Chatpeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chp-lab/dasha_server_v2/issues"
+  },
+  "homepage": "https://github.com/chp-lab/dasha_server_v2",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
