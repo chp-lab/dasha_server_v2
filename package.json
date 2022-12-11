@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/chp-lab/dasha_server_v2",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
